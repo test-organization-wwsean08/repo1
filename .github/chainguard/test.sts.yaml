@@ -3,4 +3,4 @@ subject: repo:test-organization-wwsean08/repo2:ref:refs/heads/main
 
 permissions:
   contents: write
-  issues: write
+  issues: read
